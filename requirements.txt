@@ -4,3 +4,5 @@ pandas
 matplotlib
 tensorflow
 pydot
+streamlit
+streamlit-drawable-canvas
